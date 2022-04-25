@@ -1,0 +1,145 @@
+
+
+@media only screen and (max-width:1113px ) {
+    .effect-second h2 {
+      top: 30%;
+    }
+  
+    .effect-third h2 {
+      margin-top: 0em; 
+    }
+  
+    figure h2 span {
+      font-size: 15px;
+      font-weight: 500;
+  }
+  }
+  
+  @media only screen and (max-width:1005px ) {
+    figcaption {
+      top: -21px;
+      font-size: 1rem;
+    }
+  
+    .effect-second figcaption::before {
+      height: 147%;
+    }
+  
+    figure h2 span {
+      font-size: 13px;
+    }
+    .water{
+      width: 109%;
+    }
+  }
+  
+  
+  
+  @media only screen and (max-width:800px ) {
+  .material-icons-round {
+    font-size: 40px;
+    margin-right: -1em;
+    margin-left: 16rem;
+  }
+  
+  .cards {
+    width: max-content;
+  
+  }
+  
+  .header {
+    margin: 5em -6em 4em 4em;
+  }
+  
+  .hero-section_images img {
+    margin-left: 21px;
+  }
+  
+  .wrapper {
+    margin: 2em 14em;
+    padding: 2em 0 0 0;
+    gap: 4em;
+  }
+  
+  .footer{
+    width: 58em;
+  }
+  
+  figcaption {
+    top: 0px;
+  
+  }
+  
+  figure h2 span {
+    font-size: 25px;
+  }
+  
+  .effect-third p {
+    margin-top: 2em;
+    padding: 1.5em;
+  }
+  
+  figcaption p {
+    font-size: 100.5%;
+  }
+  
+  .effect-first p, 
+  .effect-second p 
+  .effect-third p {
+    font-size: 1.5rem;
+  }
+  
+  .water {
+    width: 100%;
+  }
+  .menu {
+    gap: 16vw;
+    /* margin-left: 1%; */
+  }
+  
+  }
+  
+  
+  
+  @media only screen and (max-width: 660px){
+  .header {
+      margin: 5em -11em 4em 4em;
+  }
+  .menu {
+    gap: 16vw;
+    /* margin-left: 1%; */
+  }
+  }
+  
+  
+  @media only screen and (max-width: 560px){
+  .header {
+      margin: 5em -18em 4em 4em;
+  }
+  .menu {
+    gap: 21vw;
+    /* margin-left: 1%; */
+  }
+  }
+  
+  @media only screen and (max-width: 400px){
+  .header {
+      margin: 5em -24em 4em 4em;
+  }
+  .menu {
+    gap: 16vw;
+    /* margin-left: 1%; */
+  }
+  }
+  
+  @media only screen and (max-width: 440px){
+  .material-icons-round {
+      font-size: 40px;
+      margin-right: -4em;
+      margin-left: 16rem;
+  }
+  .menu {
+    gap: 34vw;
+    /* margin-left: 1%; */
+  }
+  }
